@@ -4,6 +4,7 @@
 
 # Concepts that are used in this app :
 ###### Class
+###### Arrays
 ###### Get method
 ###### Set method
 ###### Removing the element
